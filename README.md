@@ -1,5 +1,5 @@
 ### Oi Eu sou o Tiago 👋
-
+:blue_book: Estudando JavaScript e vue.js
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagopy2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
